@@ -1,0 +1,13 @@
+# Quant Trader Web V2
+
+Upgrade V2:
+- TradingView CSV upload
+- Candlestick chart
+- Buy/Sell signal atas carta
+- Trade journal kemas
+- Download CSV
+
+Cara update:
+1. Upload/ganti fail ini di GitHub repo lama.
+2. Commit changes.
+3. Streamlit akan auto rebuild.
