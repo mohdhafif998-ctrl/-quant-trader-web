@@ -1,4 +1,4 @@
-import streamlit as st
+as st
 import plotly.express as px
 
 from backtest import fetch_data, run_backtest
